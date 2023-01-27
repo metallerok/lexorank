@@ -1,0 +1,13 @@
+*.pyc
+bin
+develop-eggs
+eggs
+log
+.venv
+.installed.cfg
+.~lock*
+logs
+config.py
+test-results
+.idea
+.pytest_cache
